@@ -19,3 +19,7 @@ python -m venv venv
 .\.venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
+
+Replace `python` with `python3` if necessary.
+Replace `activate.bat` with `activate.ps1` if using PowerShell.
+Replace `.\.venv\Scripts\activate.bat` with `source venv/bin/activate` if using Bash.
