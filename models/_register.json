@@ -1,0 +1,17 @@
+[
+	{
+		"name": "EXAMPLE",
+		"comments": "",
+		"epochs": 100,
+		"batch_size": 20,
+		"learning_rate": 0.001,
+		"crop_size": 224,
+		"dropout_p": 0.5,
+		"final_training_accuracy": -1,
+		"final_training_loss": -1,
+		"final_validation_accuracy": -1,
+		"final_validation_loss": -1,
+		"final_test_accuracy": -1,
+		"final_test_loss": -1
+	}
+]
